@@ -1,0 +1,2 @@
+add_executable(sys_call_cost sys_call_cost.c)
+add_executable(context_switch_cost context_switch_cost.c)
